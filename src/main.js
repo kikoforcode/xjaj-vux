@@ -6,6 +6,7 @@ import FastClick from 'fastclick'
 import VueRouter from 'vue-router'
 import App from './App'
 import 'styles/iconfont.css'
+import 'styles/reset.css'
 // 全局引入toast、alert、loading
 import { ToastPlugin, AlertPlugin, LoadingPlugin } from 'vux'
 
